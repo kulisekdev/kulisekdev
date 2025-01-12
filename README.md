@@ -25,9 +25,9 @@ Feel free to browse through my repositories and check out my open-source contrib
 
 ## 💻 Some of My Projects
 
-1. **Project Name**  
+1. **Discord music bot**  
    *Description of the project and what it does.*  
-   [Link to repository](https://github.com/username/project)  
-   Technologies used: Python, Discord API, SQLite
+   [Link to repository](https://github.com/kulisekdev/musicbot)  
+   Technologies used: Python, Discord API
 
 
