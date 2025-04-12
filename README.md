@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flask, Git, C#, Kotlin**
 
-- 💬 Ask me about **Python, Discord.py, Python json**
+- 💬 Ask me about **Python, Discord.py, Linux, JSON, Computers in general**
 
 - 📫 How to reach me **kulisek@hnateklukas.xyz**
 
